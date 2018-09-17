@@ -1,0 +1,122 @@
+_repo: The-Fun-Library-vol-8-Stage-Study-Studio_52614
+_version: 0.0.1
+alternative_title: 'The Fun Library, vol. 8: Stage, Study and Studio'
+contributor:
+  illustrators:
+  - agent_name: Pears, Charles
+    alias: Pears, Chas. (Charles)
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '9846'
+    url: http://www.gutenberg.org/2009/agents/9846
+  - agent_name: Keene, Charles
+    alias: Keene, Charles Samuel
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '37404'
+    url: http://www.gutenberg.org/2009/agents/37404
+  - agent_name: May, Phil
+    alias: Summers, Charlie
+    birthdate: &id002 1864
+    deathdate: 1903
+    gutenberg_agent_id: '37403'
+    url: http://www.gutenberg.org/2009/agents/37403
+    wikipedia: http://en.wikipedia.org/wiki/Phil_May_%28caricaturist%29
+  - agent_name: Brunton, W. S.
+    gutenberg_agent_id: '46957'
+    url: http://www.gutenberg.org/2009/agents/46957
+  - agent_name: Maybank, Thomas
+    alias: Maybank, H. Thomas
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '46874'
+    url: http://www.gutenberg.org/2009/agents/46874
+  - agent_name: Booth, J. L. C.
+    aliases:
+    - Booth, John Lionel Calvert
+    - Booth, J. C.
+    birthdate: 1876
+    deathdate: 1915
+    gutenberg_agent_id: '46948'
+    url: http://www.gutenberg.org/2009/agents/46948
+  - agent_name: Griset, Ernest Henry
+    birthdate: 1844
+    deathdate: 1907
+    gutenberg_agent_id: '8211'
+    url: http://www.gutenberg.org/2009/agents/8211
+  - agent_name: Du Maurier, George
+    aliases:
+    - Du Maurier, George Louis Palmella Busson
+    - Maurier, George Du
+    birthdate: 1834
+    deathdate: &id001 1896
+    gutenberg_agent_id: '4661'
+    url: http://www.gutenberg.org/2009/agents/4661
+    wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+  - agent_name: Barnard, Frederick
+    aliases:
+    - Barnard, Fred. (Frederick)
+    - Barnard, F. (Frederick)
+    birthdate: 1846
+    deathdate: *id001
+    gutenberg_agent_id: '41534'
+    url: http://www.gutenberg.org/2009/agents/41534
+  - agent_name: Baynes, Philip
+    gutenberg_agent_id: '46916'
+    url: http://www.gutenberg.org/2009/agents/46916
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: *id002
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+  - agent_name: Thomson, J. Gordon
+    aliases:
+    - Thomson, J. G. (J. Gordon)
+    - Thomson, Gordon (J. Gordon)
+    gutenberg_agent_id: '41516'
+    url: http://www.gutenberg.org/2009/agents/41516
+  - agent_name: Bateman, H. M. (Henry Mayo)
+    alias: Bateman, Henry Mayo
+    birthdate: 1887
+    deathdate: 1970
+    gutenberg_agent_id: '40105'
+    url: http://www.gutenberg.org/2009/agents/40105
+    wikipedia: http://en.wikipedia.org/wiki/H._M._Bateman
+  - agent_name: Haselden, William
+    aliases:
+    - Haselden, William Kerridge
+    - Haselden, W. K. (William Kerridge)
+    birthdate: 1872
+    deathdate: 1953
+    gutenberg_agent_id: '46926'
+    url: http://www.gutenberg.org/2009/agents/46926
+creator:
+  editor:
+    agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, Sir John Alexander
+    - Hammerton, J. A. (John Alexander)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_issued: '2016-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor, Pictorial'
+- !lcc 'PN'
+- !lcc 'PR'
+- !lcsh 'English wit and humor'
+- GITenberg
+title: 'The Fun Library, vol. 8: Stage, Study & Studio'
+url: http://www.gutenberg.org/ebooks/52614
