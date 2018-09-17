@@ -1,5 +1,5 @@
 _repo: The-Fun-Library-vol-8-Stage-Study-Studio_52614
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'The Fun Library, vol. 8: Stage, Study and Studio'
 contributor:
   illustrators:
@@ -17,7 +17,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/37404
   - agent_name: May, Phil
     alias: Summers, Charlie
-    birthdate: &id002 1864
+    birthdate: 1864
     deathdate: 1903
     gutenberg_agent_id: '37403'
     url: http://www.gutenberg.org/2009/agents/37403
@@ -49,7 +49,7 @@ contributor:
     - Du Maurier, George Louis Palmella Busson
     - Maurier, George Du
     birthdate: 1834
-    deathdate: &id001 1896
+    deathdate: 1896
     gutenberg_agent_id: '4661'
     url: http://www.gutenberg.org/2009/agents/4661
     wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
@@ -58,7 +58,7 @@ contributor:
     - Barnard, Fred. (Frederick)
     - Barnard, F. (Frederick)
     birthdate: 1846
-    deathdate: *id001
+    deathdate: 1896
     gutenberg_agent_id: '41534'
     url: http://www.gutenberg.org/2009/agents/41534
   - agent_name: Baynes, Philip
@@ -67,7 +67,7 @@ contributor:
   - agent_name: Leech, John
     alias: Leech, J. (John)
     birthdate: 1817
-    deathdate: *id002
+    deathdate: 1864
     gutenberg_agent_id: '9473'
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
@@ -92,6 +92,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '46926'
     url: http://www.gutenberg.org/2009/agents/46926
+covers:
+- cover_type: archival
+  image_path: 52614-h/images/cover.jpg
 creator:
   editor:
     agent_name: Hammerton, John Alexander, Sir
@@ -104,6 +107,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52614#The-Fun-Library-vol-8-Stage-Study-Studio
 gutenberg_issued: '2016-07-21'
 gutenberg_type: Text
 identifiers:
